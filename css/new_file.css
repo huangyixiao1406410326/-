@@ -1,0 +1,20 @@
+button{
+	background-color: red;
+	color: blue;
+}
+#m{
+	width: 80px;
+	height: 30px;
+	background-color: #0000FF;
+	color: deeppink;
+	font-family: "微软雅黑";
+	text-align: center;
+	line-height: 30px;
+	border: 3px solid black;
+	border-radius: 10px;
+	cursor: pointer;
+	
+}
+#m:hover{
+	background-color: yellow;
+}
