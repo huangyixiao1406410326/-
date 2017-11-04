@@ -89,14 +89,16 @@ body {
 	font-family: "Î¢ÈíÑÅºÚ";
 	text-align: center;
 }
+
+
 .nav_mid a:link, .nav_mid a:visited {
 	font-size: 16px;
-	color: #FFF;
+	color:black;
 	text-decoration: none;
 }
-.nav_mid a:hover, .nav_mid a:active {
+.nav_mid li:hover, .nav_mid li:active {
 	font-size: 16px;
-	color: #FF0;
+	background-color: green;
 	text-decoration: none;
 }
 .nav_mid_left {
